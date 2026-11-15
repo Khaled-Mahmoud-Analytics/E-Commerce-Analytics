@@ -16,22 +16,22 @@ The main objective is to transform raw business data into meaningful insights th
 ### 1. Dashboard Controls
 The navigation page provides an interactive way to move between different analytical sections of the dashboard.
 
-![Dashboard Controls](images/controls.png)
+![Dashboard Controls](Controls.png)
 
 ### 2. Business Overview
 A high-level overview of the business performance, including key performance indicators (KPIs), sales trends, profitability, and overall growth.
 
-![Business Overview](images/overview.png)
+![Business Overview](E-commerce2.png)
 
 ### 3. Product Analysis
 An analysis of product-level performance to compare sales, profit, and discounts, identifying the difference between high-selling products and high-profit products.
 
-![Product Analysis](images/product-analysis.png)
+![Product Analysis](E-commerce3.png)
 
 ### 4. Channel & Region Analysis
 An analysis of sales channels, branches, and geographical regions to understand their contribution to total sales and business profitability.
 
-![Channel and Region Analysis](images/channel-region-analysis.png)
+![Channel and Region Analysis](E-commerce4.png)
 
 ---
 
